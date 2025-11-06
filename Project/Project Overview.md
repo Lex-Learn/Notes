@@ -1,4 +1,4 @@
-- [[Project]]
+- [Project](Project.md)
 - ## Project Title
 	- Online Cricket training management
 - ## Introduction
