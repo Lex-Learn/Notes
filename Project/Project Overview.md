@@ -1,0 +1,21 @@
+- [[Project]]
+- ## Project Title
+	- Online Cricket training management
+- ## Introduction
+	-
+- ## Objective
+- ## Why choose this topic?
+- ## Number of modules
+- ## DFD
+- ## ERD
+- ## User Interface
+- ## Connectivity
+- ## Testing and test case
+- ## Software Used
+	- ### Frontend
+		- HTML, CSS, JS
+	- ### Backend
+		- C# .(dot)net
+	- ### Database
+		- SQL Server 2019
+	- ### Server
