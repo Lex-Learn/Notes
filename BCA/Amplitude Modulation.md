@@ -7,8 +7,7 @@ uplink: [Modulation](Modulation.md)
 
 ## Diagram
 
-![](Pasted%20image%2020251108140846.png)
-
+![](../Pictures/Pasted%20image%2020251108140846.png)
 ## Working
 
 - A high frequency signal is chosen for carrier signal.
