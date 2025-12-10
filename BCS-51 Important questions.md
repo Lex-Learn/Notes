@@ -22,7 +22,7 @@ Comparison table
 
 Why: 10 marks. Theory + diagram. Always asked.
 
-3. [ ] ARP/RARP ⭐⭐⭐⭐⭐ (Asked: 10 times)
+3. [x] ARP/RARP ⭐⭐⭐⭐⭐ (Asked: 10 times)
 Q3. Explain the working of ARP (Address Resolution Protocol) using a diagram. How does ARP differ from RARP?
 Must include:
 
